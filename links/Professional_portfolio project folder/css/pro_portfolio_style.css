@@ -1,0 +1,55 @@
+header {
+    /* background-image: url(./images/header_portfolio.JPG); */
+    /* height: 100%; */
+    
+    /* opacity: 0.65; */
+    /* background-position: center; */
+    /* background-repeat: no-repeat;
+    background-size: cover; */
+
+    /* text-align: center;
+    color: #fff;
+    background-attachment: scroll;
+    background-image: url(/images/header_portfolio.JPG);
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover; */
+
+
+}
+
+.bgimg_1 {
+    /* text-align: center;
+    color: #fff;
+    background-attachment: scroll;
+    background-image: url(/images/header_portfolio.JPG);
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover; */
+    
+}
+
+body {
+     /* text-align: center;
+    color: #fff;
+    background-attachment: scroll;
+    background-image: url(/images/header_portfolio.JPG);
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover; */
+
+
+     
+    height: 100%;
+    
+    opacity: 0.65;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
