@@ -1,0 +1,34 @@
+/**************Styles for the Main Project Site****************/
+
+
+/*****Navigation Styles*****/
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+
+.navbar {
+	    border: white 2px solid;
+}
+
+
+/********HOME PAGE Styles****/
+body {
+	background-color: #000000 ;
+}
+
+.container.page-body {
+	margin-top: 1.0rem;
+	margin-bottom: 1.0rem;
+}
+
+.jumbotron {
+	padding: .25rem;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: .25rem;
+}
+
+
+/*************SCHEDULE PAGE Styles************/
+
